@@ -1,5 +1,5 @@
 .prof{
-    color: red;
+    color: rgb(80, 56, 56);
     background-color:black;
     text-align:center;
     text-decoration:blue underline;
@@ -7,9 +7,14 @@
     letter-spacing: 5px;
     text-shadow: greenyellow 2px 2px 5px;
     font-style: italic;
-    font-size: 15px;
+    font-size: 15px;}
+body{
     background-image: url("https://images.shiksha.com/mediadata/images/1673527845php2yz5f8.jpeg");
     background-repeat:no repeat;
     background-size: cover;
-    text-shadow: greenyellow 2px 2px 5px;
+    
+    
 }
+img{
+    width:200px;height:px;
+    padding:30px;}
